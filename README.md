@@ -53,12 +53,14 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by:k.sadhana RegisterNumber:25013407
 
 
-**RTL realization**
+**RTL realization** 
+
 <img width="678" height="333" alt="Screenshot 2025-10-15 151022" src="https://github.com/user-attachments/assets/b0f27dff-b2fa-42f0-b6d0-a51fcc864cb3" />
 
 **Output:**
 
 **RTL**
+
 <img width="1049" height="288" alt="image" src="https://github.com/user-attachments/assets/421cb02d-f259-4f49-b04f-962e7f91399d" />
 
 
