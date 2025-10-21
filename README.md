@@ -32,20 +32,11 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+
  module booleanexpression ( input A, B, C, D, output F );
- wire nB, nD, term1, term2, term3;
- // NOT gates
- not (nB, B);
- not (nD, D);
- // AND terms
- and (term1, nB, nD);   // B'D'
- and (term2, A, C);     
-// AC
- and (term3, B, D);     
-// BD
- // OR the terms
- or  (F, term1, term2, term3);
- endmodule
+ 
+ <img width="358" height="371" alt="image" src="https://github.com/user-attachments/assets/87e309ce-8b97-4c8b-a053-f6378275a046" />
+
  
  /* Program to implement the given logic function and to verify its operations in quartus
  using Verilog programming.
